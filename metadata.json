@@ -1,0 +1,6 @@
+{
+  "name": "Interview & Career Coach AI",
+  "description": "Mülakatçının unvanına göre nokta atışı sorular, interaktif koçluk simülasyonu ve eğitim içeriklerine dayalı kariyer sonraki adım yol haritası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
